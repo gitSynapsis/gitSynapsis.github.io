@@ -276,11 +276,10 @@ body::before {
     padding-top:0px !important;
 }
 .wordmark-2iDDfm:after {
-	content:'Aurora v2.6';
+	content:'Discord';
 	position: absolute !important;
 	left: 5px;
 	width: 100vw;
-	font-family:'Satisfy';
 	color: rgba(255,255,255,0.8);
 	font-size: 19px;
 	font-weight:bold;
