@@ -1,3 +1,2 @@
-# gitSynapsis.github.io
-
-Github pages fo Synapsises projects
+# Github pages for Synapsis
+Store project files
